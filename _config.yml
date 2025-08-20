@@ -14,9 +14,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GREEN51LV3R # the main title
+title: A.M.KOKATE # the main title
 
-tagline: Cybersecurity student # it will display as the sub-title
+tagline: Surviving on curiosity, caffeine, and questionable decisions. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   cybersecurity blog, writeup.

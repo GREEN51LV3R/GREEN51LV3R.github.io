@@ -4,12 +4,28 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<p>Hi</p>
+      <p>Sometimes I break things just to see how they fit back together. Other times I lose track of time in a book, solving hacking challenges, or a thought that refuses to end. Between wandering, writing, and chasing puzzles, I’m simply learning how to enjoy the chaos and the quiet in equal measure.</p>
+      <div style="font-family: Arial, sans-serif; margin-top: 20px; line-height: 1.8;">
+  <p><b>Find me here:</b></p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>
+      ✉️ <b>Newsletter:</b> 
+      <a href="https://cybersecuritywithme.substack.com/" target="_blank" style="color: #0073e6; text-decoration: none;">
+        cybersecuritywithme.substack.com
+      </a>
+    </li>
+    <li>
+      📝 <b>Medium Blog:</b> 
+      <a href="https://medium.com/@cybersecuritywithme" target="_blank" style="color: #00ab6c; text-decoration: none;">
+        medium.com/@cybersecuritywithme
+      </a>
+    </li>
+  </ul>
+</div>
 
-Hey everyone! I'm Aakash Kokate, a cybersecurity researcher, bug bounty hunter, and pentester.
 
-In my free time, I enjoy playing chess and writing. When I'm not immersed in cybersecurity projects, you can find me playing CTF games on platforms like HacktheBox, TryHackMe, and OverTheWire. Don't forget to check out my cybersecurity newsletter
- https://securitywithme.substack.com/ 
- and my blog on Medium https://medium.com/@GREEN51LV3R.
 
-Thanks for stopping by! Feel free to reach out if you'd like to connect or discuss anything related to cybersecurity.
+
+<p>Thanks for stopping by! Reach out anytime if you’d like to connect, share a thought, or just talk about the things that make life interesting.</p>
 
