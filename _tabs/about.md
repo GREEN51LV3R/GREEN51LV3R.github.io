@@ -6,8 +6,7 @@ order: 4
 
 Hi
 
-Sometimes I break things just to see how they fit back together. Other times I lose track of time in a book, solving hacking challenges, or a thought that refuses to end. Between wandering, writing, and chasing puzzles, I’m simply learning how to enjoy the chaos and the quiet in equal measure.</p>
-      <div style="font-family: Arial, sans-serif; margin-top: 20px; line-height: 1.8;">
+Sometimes I break things just to see how they fit back together. Other times I lose track of time in a book, solving hacking challenges, or a thought that refuses to end. Between wandering, writing, and chasing puzzles, I’m simply learning how to enjoy the chaos and the quiet in equal measure.
   <p><b>Find me here:</b></p>
   <ul style="list-style: none; padding-left: 0;">
     <li>
@@ -23,10 +22,10 @@ Sometimes I break things just to see how they fit back together. Other times I l
       </a>
     </li>
   </ul>
-</div>
 
 
 
 
-<p>Thanks for stopping by! Reach out anytime if you’d like to connect, share a thought, or just talk about the things that make life interesting.</p>
+
+Thanks for stopping by! Reach out anytime if you’d like to connect, share a thought, or just talk about the things that make life interesting.
 
